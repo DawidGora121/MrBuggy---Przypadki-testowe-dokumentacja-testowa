@@ -3,4 +3,7 @@ Przykład opracowanych przeze mnie przypadków testowych oraz dokumentacji testo
 
 MrBuggy to program stworzony w celu praktykowania techniki testerskiej, program intencjonalnie zawiera wiele defketów które nie spełniają waruknów specyfikacji wymagań, która również jest załączona w tym repozytorium.
 
-Załączona w repozytorium dokumentacja testowa oraz opracowane przeze mnie przypadki testowe mają za zadanie ukazać zdobyte przeze mmnie doświadczenie jako tester manualny. 
+Załączona w repozytorium dokumentacja testowa oraz opracowane przeze mnie przypadki testowe mają za zadanie ukazać zdobyte przeze mmnie doświadczenie jako tester manualny.
+
+Przypadki testowe w google sheets:
+https://docs.google.com/spreadsheets/d/1fwpJxA3rHliKkwodmGsrEla91o3mjLNJTcIYkqLNb5g/edit?gid=0#gid=0
